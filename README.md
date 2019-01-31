@@ -1,16 +1,26 @@
 # Say Frontend Take Home Project
 
+This repository contains the instructions for the frontend (web) takehome coding challenge. 
+
+Please follow the instuctions for the project below. Once finished, please deploy your project to somewhere on the internet and include the url somewhere in this README.
+
+Currently, we are primarily a React + TypeScript shop. With that said, feel free to pick any library/framework you know best for this coding challenge. IF you would like to complete this coding challenge with React + JavaSctipt, we have provided a simple React starter project for you in this repo. If you want to code it in something other than React, you can ignore the Getting Started section and head straight into the Project Details sction.
+
 ## Getting started
 
-1. Fork this repository.
+1. Make sure you have Node installed. This project was scaffolded with Yarn, so make sure you have that too.
 
-2. Make sure you have `yarn` installed. [https://yarnpkg.com/en/](https://yarnpkg.com/en/).
+2. Run `yarn install` to install the necessary dependencies. 
 
-3. Run `yarn install` to install packages. Then `yarn start` to start local server.
+3. Run `yarn start` to start local server. This should start the project on `localhost:3000`.
 
-4. (A basic react app is provided, but if you would like to use a different library/framework, that is fine, just provide a README on how to install and run your project).
+## Project Details
 
-## The project
+### Goal
+
+The result of this project should be a page containing groups of subreddits with each group containing it's posts sorted from most upvotes to least upvotes. 
+
+### Detailed Steps
 
 1. Fetch data from the url provided: [https://www.reddit.com/.json](https://www.reddit.com/.json).
 
@@ -22,11 +32,15 @@
 
 5. Create a UI that reflects how you have parsed the data. Designs are not provided, so feel free to make this look however you would like.
 
-6. Once you are done, push the fork to your own github account (private is fine, you will just need to grant us access to it).
+6. Make sure to deploy your project to somewhere on the internet and add the link to the deployed project to this README.
+
+6. Once you are done, push the project to your own GitHub/BitBucket/GitLab account (private is perfectly fine).
 
 ## Things to keep in mind
 
-1. This should be a ~2 hour challenge, so do not fret about making it pretty, but make it user friendly.
+1. Please take ~2 hours to complete this challenge. 
+
+2. The end result should be functional and user fiendly, while showing us your styling ability.
 
 2. Design should be responsive.
 
