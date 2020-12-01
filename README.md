@@ -4,7 +4,7 @@ This repository contains the instructions for the frontend (web) take home codin
 
 Please follow the instructions for the project below.
 
-Currently, we are primarily a React + TypeScript shop. With that said, feel free to pick any library/framework you know best for this coding challenge. IF you would like to complete this coding challenge with React + JavaSctipt, we have provided a simple React starter project for you in this repo. If you want to code it in something other than React, you can ignore the Getting Started section and head straight into the Project Details section.
+Currently, we are primarily a React + TypeScript shop. With that said, feel free to pick any library/framework you know best for this coding challenge. If you would like to complete this coding challenge with React + JavaScript, we have provided a simple React starter project in this repo. If you want to code it in something other than React, you can ignore the Getting Started section and head straight into the Project Details section.
 
 ## Getting started
 
@@ -18,7 +18,7 @@ Currently, we are primarily a React + TypeScript shop. With that said, feel free
 
 ### Goal
 
-The result of this project should be a page containing groups of subreddits with each group containing it's posts sorted from most upvotes to least upvotes. Something to keep in mind here is that we aren't looking for 100% perfection here. We are more interested in looking into your process as an engineer.
+The result of this project should be a page containing Reddit posts grouped by subreddit and sorted from most to least upvotes. Something to keep in mind here is that we aren't looking for 100% perfection. We're more interested in looking into your process as an engineer.
 
 ### Detailed Steps
 
