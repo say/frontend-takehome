@@ -18,7 +18,7 @@ Currently, we are primarily a React + TypeScript shop. With that said, feel free
 
 ### Goal
 
-The result of this project should be a page displaying posts grouped by subreddit and sorted from most to least upvotes. Something to keep in mind here is that we aren't looking for 100% perfection. We're more interested in looking into your process as an engineer.
+The result of this project should be a page containing Reddit posts grouped by subreddit and sorted from most to least upvotes. Something to keep in mind here is that we aren't looking for 100% perfection. We're more interested in looking into your process as an engineer.
 
 ### Detailed Steps
 
