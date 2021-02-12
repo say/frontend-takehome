@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  background-color: rgb(66, 167, 250);
+  box-shadow: yellow;
+  padding: 15px;
+}
+
+header input {
+  display: inline-block;
+  color: white;
+  font-size: 29px;
+  font-weight: 600;
+  font-style: oblique;
+  text-transform: uppercase;
+  background: none;
+  outline: none;
+  border: none;
+}
+
+header:before {
+  content: 'search/'; 
+  display: inline-block;
+  color: white;
+  font-size: 29px;
+  font-weight: 600;
+  font-style: oblique;
+
+}
+
+.posts article{
+  padding: 30px 15px;
+  background-color: rgb(240, 62, 231);
+
+}
+
+.posts article a{
+  text-decoration: none;
+
+}
+
+.posts article h3{
+  color:rgb(59, 81, 92)
+}
+
+.posts article:nth-child(2n) {
+  background-color: rgb(144, 232, 243);
+}
